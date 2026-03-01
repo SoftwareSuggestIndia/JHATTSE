@@ -27,7 +27,7 @@ This detailed comparison shows how Jhattse Business stacks up against eZee, Stay
 | **Offline Mode** | ✅ Yes | ❌ No | ❌ No | ⚠️ Limited | ❌ No |
 | **Learning Curve** | 2-3 days | 5-7 days | 3-4 days | 1-2 weeks | 2-3 days |
 | **Training Included** | ✅ Yes (Free) | ⚠️ Paid | ⚠️ Paid | ✅ Yes | ✅ Yes |
-| **OTA Integrations** | 50+ | 500+ | 50+ | 100+ | 40+ |
+| **OTA Integrations** | 500+ | 500+ | 50+ | 100+ | 40+ |
 
 ---
 
@@ -47,15 +47,15 @@ This detailed comparison shows how Jhattse Business stacks up against eZee, Stay
 - Unlimited users
 
 **Cost for 50-Room Hotel:**
-- Monthly: ₹18,880 (with GST)
-- Annual: ₹2,26,560
+- Monthly: ₹3333.33 (with GST)
+- Annual: ₹40000
 - **Per room per month: ₹377**
 
 **Total Cost of Ownership (Year 1):**
-- Software: ₹2,26,560
+- Software: ₹40,560
 - Setup: ₹0
 - Training: ₹0
-- **Total: ₹2,26,560**
+- **Total: ₹40,560**
 
 ---
 
